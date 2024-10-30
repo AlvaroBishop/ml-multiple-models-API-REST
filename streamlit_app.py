@@ -6,7 +6,7 @@ import requests
 from scripts import s3
 
 # Define the API endpoint 
-API_URL = "http://127.0.0.1:8000/api/v1/"
+API_URL = "http://127.0.0.1:8002/api/v1/"
 headers = {
     'Content-Type': 'application/json'
 }
